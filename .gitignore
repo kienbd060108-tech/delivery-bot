@@ -1,0 +1,9 @@
+.gradle/
+.jdk/
+build/
+run/
+logs/
+*.log
+genSources.log
+delivery-bot.json
+delivery-bot-locations.json
